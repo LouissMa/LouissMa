@@ -30,7 +30,7 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Louisma's GitHub ! 🍀</h1>
+<h1 style="color: #FFA500;">Welcome to LouissMa's GitHub ! 🍀</h1>
 
 
 
@@ -230,6 +230,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
