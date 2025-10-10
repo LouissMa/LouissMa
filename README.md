@@ -108,8 +108,7 @@
 
 
 
-<!-- Stats Words -->
-![Metrics](github-metrics.svg)
+
 
 
 
