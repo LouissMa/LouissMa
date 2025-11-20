@@ -1,16 +1,24 @@
 <div align="center">
+  <!-- 替换下面的 src 为你上传到仓库的 GIF 或 图片链接 -->
+  <img src="./GIF-ezgif.com-video-to-gif-converter.gif" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);">
 
-# Merry Christmas 2025 🎄❄️✨
+  <br/><br/>
 
-Hi，我是 @mabingnan  
-[GitHub](https://github.com/mabingnan) • [X](https://twitter.com/mabingnan_V)
+  <h1 style="font-family: cursive; color: #d32f2f;">Merry Christmas 2025 🎄</h1>
+  
+  <p style="font-size: 1.2em;">
+    Hi, I am <strong>@mabingnan</strong>
+  </p>
 
-<iframe src="https://louissma.github.io" width="100%" height="700px" frameborder="0" scrolling="no" style="border-radius:20px; box-shadow:0 20px 60px rgba(0,0,0,0.8); max-width:900px; margin:30px auto; display:block;"></iframe>
+  <p>
+    <a href="https://github.com/mabingnan">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/mabingnan_V">
+      <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    </a>
+  </p>
 
-<p style="color:#ccc; font-size:0.9rem;">
-  ↑ 鼠标拖拽旋转 • 滚轮缩放 • 按 H 隐藏/显示文字
-</p>
-
-Wish you a warm and snowy Christmas in 2025 🎅✨
-
+  <p><em>Wish you a warm & snowy Christmas ❄️✨</em></p>
 </div>
