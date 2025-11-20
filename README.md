@@ -1,91 +1,72 @@
-<div align="center">
-
-  <!-- Knock Code Pictures -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <!-- for beauty -->
-  <div>&nbsp;</div>
-
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
+  <title>@mabingnan - Merry Christmas 2025 🎄</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>圣诞主页 - @mabingnan</title>
   <style>
-    * { margin: 0; padding: 0; }
-    body, html { height: 100%; overflow: hidden; }
-    
-    /* 全屏背景视频 */
-    #bg-video {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      min-width: 100%;
-      min-height: 100%;
-      width: auto;
-      height: auto;
-      transform: translateX(-50%) translateY(-50%);
-      z-index: -1;
-      object-fit: cover;
-    }
-    
-    /* 中间内容（你想显示的文字、头像、链接等） */
-    .content {
+    body { margin: 0; overflow: hidden; background: #000; }
+    canvas { display: block; }
+
+    /* 居中浮层文字 - 超美圣诞风格 */
+    .overlay {
       position: absolute;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
       text-align: center;
       color: white;
-      text-shadow: 0 0 20px rgba(0,0,0,0.8);
-      font-family: "Segoe UI", Arial, sans-serif;
+      z-index: 10;
+      pointer-events: none; /* 让鼠标可以穿透去拖动3D场景 */
+      font-family: 'Segoe UI', Arial, sans-serif;
     }
-    h1 { font-size: 4rem; margin-bottom: 1rem; }
-    p { font-size: 1.5rem; margin: 1rem 0; }
-    a { color: #ffdd00; text-decoration: none; }
+    h1 {
+      font-size: 4.5rem;
+      margin-bottom: 1rem;
+      text-shadow: 0 0 30px rgba(0,0,0,0.9);
+      background: linear-gradient(90deg, #ff512f, #f09819, #ffd700, #fff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: shine 3s infinite;
+    }
+    p {
+      font-size: 1.8rem;
+      margin: 1rem 0;
+      text-shadow: 0 0 20px rgba(0,0,0,0.8);
+    }
+    a {
+      color: #ffdd57;
+      text-decoration: none;
+      font-weight: bold;
+    }
     a:hover { text-decoration: underline; }
+
+    @keyframes shine {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.8; }
+    }
+
+    /* 手机适配 */
+    @media (max-width: 768px) {
+      h1 { font-size: 3rem; }
+      p { font-size: 1.4rem; }
+    }
   </style>
 </head>
 <body>
+  <!-- 这里放你原来的 3D 脚本，会自动加载 -->
+  <script type="module" src="./index-BZRdRA-q.js"></script>
+  <!-- 如果文件名每次打包都不一样，改成你的实际文件名就行 -->
 
-  <!-- 背景视频 -->
-  <video id="bg-video" autoplay muted loop playsinline>
-    <source src="christmas-snowy-house.mp4" type="video/mp4">
-    <!-- 如果你还有 webm 格式可以再加一行 -->
-    你的浏览器不支持视频哦~
-  </video>
-
-  <!-- 中间你想显示的内容，随便改 -->
-  <div class="content">
-    <h1>Merry Christmas 🎄</h1>
+  <!-- 浮层文字 -->
+  <div class="overlay">
+    <h1>Merry Christmas 2025 🎄</h1>
     <p>Hi，我是 @mabingnan</p>
     <p>
-      <a href="https://github.com/mabingnan">GitHub</a> • 
-      <a href="https://twitter.com/mabingnan_V">Twitter/X</a>
+      <a href="https://github.com/mabingnan" target="_blank">GitHub</a> • 
+      <a href="https://twitter.com/mabingnan_V" target="_blank">X / Twitter</a>
     </p>
-    <p>2025 圣诞快乐 ❄️✨</p>
+    <p>Wish you a warm & snowy Christmas ❄️✨</p>
   </div>
-
 </body>
 </html>
-
- 👋 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
