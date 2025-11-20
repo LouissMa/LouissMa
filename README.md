@@ -37,7 +37,7 @@
 
   <!-- 万能加载：自动找最新的 js 文件，再也不用改文件名！ -->
   <script type="module">
-    import init from './assets/index.js';
+    import init from './index.js';
     init();
   </script>
   <!-- 如果上面这行报错，就用下面这行（看你 dist 里实际结构） -->
