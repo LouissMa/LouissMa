@@ -1,4 +1,6 @@
 <div align="center">
+  
+  # Merry Christmas 2025 🎄❄️
   <!-- 替换下面的 src 为你上传到仓库的 GIF 或 图片链接 -->
   <img src="./GIF-ezgif.com-video-to-gif-converter.gif" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);">
 
@@ -20,5 +22,5 @@
     </a>
   </p>
 
-  <p><em>Wish you a warm & snowy Christmas ❄️✨</em></p>
+  <p><em>Wish you a warm & snowy Christmas ❄️🎅✨</em></p>
 </div>
