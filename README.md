@@ -61,12 +61,7 @@
 <br/>
 
 ### 🔭 Research Roadmap
-
-<div align="center">
-  <br/>
-    $$\text{Interest} = \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robotics}) \cdot dt$$
-  <br/>
-</div>
+$$\text{Interest} = \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robotics}) \cdot dt$$
 
 * **Current Focus:** Visual SLAM & Path Planning in dynamic environments.
 * **Collaboration:** Open to contributing on **ROS2 Navigation** stack.
