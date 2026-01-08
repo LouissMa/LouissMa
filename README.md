@@ -64,7 +64,7 @@
 
 <div align="center">
   <br/>
-  $$\mathcal{L}_{\text{Dream}} = \mathbb{E} \left[ \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robotics}) \, dt \right]$$
+    $$\text{Interest} = \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robotics}) \cdot dt$$
   <br/>
 </div>
 
