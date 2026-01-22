@@ -76,5 +76,5 @@ $$\text{Interest} = \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robot
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=LouissMa&theme=dark&hide_border=true&ring=8C1515&fire=8C1515&background=0d1117" alt="GitHub Streak" style="width: 80%;" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=LouissMa&theme=dark&hide_border=true&ring=8C1515&fire=8C1515&background=0d1117" alt="GitHub Streak" style="width: 80%;" />
 </div>
