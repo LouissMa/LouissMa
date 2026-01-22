@@ -10,10 +10,11 @@
   </a>
 
   <p style="font-size: 1.05em; max-width: 700px; line-height: 1.6;">
-    An aspiring researcher passionate about <strong>Embodied AI</strong> and <strong>Robotics Control</strong>.<br/>
-    My goal is to develop intelligent systems that can perceive, reason, and interact with the physical world.<br/>
-    <em>"The best way to predict the future is to invent it."</em>
-  </p>
+  Passionate about <strong>Embodied AI</strong>, <strong>robotics</strong>, and the fusion of bits with atoms.<br/>
+  As a computer science enthusiast, I'm dedicated to making meaningful contributions in academia and tirelessly working toward <strong>AGI</strong> — creating intelligent agents that don't just think, but truly understand and shape the physical world.<br/>
+  <em>"The best way to predict the future is to invent it."</em>
+</p>
+
 
   <p>
     <a href="https://github.com/mabingnan">
