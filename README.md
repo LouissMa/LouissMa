@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/e0/90/19/e09019aa144bc302ae34963574d30999.gif" width="100%" style="height:180px; object-fit:cover; border-radius:15px; opacity:0.9;">
+<img src="https://i.pinimg.com/originals/e0/90/19/e09019aa144bc302ae34963574d30999.gif" 
+width="100%" 
+style="height:180px; object-fit:cover; border-radius:15px; opacity:0.9;">
 
-<br/>
 
 <h1>
-Hi, I'm <a href="https://github.com/LouissMa" style="color:#8C1515;">Mabingnan</a> 👨‍💻
+Hi, I'm <a href="https://github.com/LouissMa">Mabingnan</a> 👨‍💻
 </h1>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8C1515&center=true&vCenter=true&width=750&lines=AI+Systems+%26+Robotics+Enthusiast;Building+Autonomous+AI+Agents;Exploring+Embodied+Intelligence;Bridging+Digital+Intelligence+and+the+Physical+World" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8C1515&center=true&vCenter=true&width=750&lines=AI+Systems+%26+Robotics+Enthusiast;Building+Autonomous+AI+Agents;Exploring+Embodied+Intelligence;Bridging+Digital+Intelligence+and+the+Physical+World"/>
 
 
 <br/>
@@ -17,26 +18,23 @@ Hi, I'm <a href="https://github.com/LouissMa" style="color:#8C1515;">Mabingnan</
 
 <p align="center">
 
-I am a Computer Science undergraduate passionate about
+I am a Computer Science undergraduate passionate about 
 <strong>Artificial Intelligence</strong>,
 <strong>Large Language Models</strong>,
 and
 <strong>Autonomous Systems</strong>.
 
-
 <br/>
 
-My research interest lies in building intelligent systems that can
+My research interest lies in building intelligent systems that can 
 <strong>reason, learn, remember, and interact with the world</strong>.
 
-
 <br/>
 
-Currently exploring the intersection of
+Currently exploring the intersection of 
 <strong>LLM Agents, Reinforcement Learning, and Embodied AI</strong>.
 
 </p>
-
 
 
 <br/>
@@ -47,23 +45,17 @@ Currently exploring the intersection of
 <a href="https://github.com/LouissMa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
 <a href="https://twitter.com/mabingnan_V">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-
 <a href="mailto:your_email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 </p>
 
 
 </div>
-
 
 
 ---
@@ -75,13 +67,13 @@ I am interested in developing **autonomous intelligent systems** by combining:
 
 
 $$
-\textbf{Large Language Models}
+Large\ Language\ Models
 +
-\textbf{Learning Algorithms}
+Learning\ Algorithms
 +
-\textbf{Robotics}
+Robotics
 \rightarrow
-\textbf{Embodied Intelligence}
+Embodied\ Intelligence
 $$
 
 
@@ -89,38 +81,39 @@ My research journey can be summarized as:
 
 
 $$
-\text{Interest}
+AI_{Future}
 =
-\int_{\text{Now}}^{\text{Future}}
-(\text{AI}+\text{Robotics}) \cdot dt
+\int_{Now}^{Future}
+(LLM+Learning+Robotics)\cdot dt
 $$
-
 
 
 My current exploration focuses on:
 
 
-- 🧠 **Large Language Model Agents**
-  - Long-term memory
-  - Retrieval-Augmented Generation (RAG)
-  - Tool use and function calling
-  - Planning and reasoning
-  - Multi-agent collaboration
+### 🧠 Large Language Model Agents
+
+- Long-term memory systems
+- Retrieval-Augmented Generation (RAG)
+- Tool use and function calling
+- Planning and reasoning
+- Multi-agent collaboration
 
 
-- 🤖 **Embodied Intelligence**
-  - Vision-language-action models
-  - Robot navigation
-  - Simulation environments
-  - Reinforcement learning
+### 🤖 Embodied Intelligence
+
+- Vision-language-action models
+- Robot navigation
+- Simulation environments
+- Reinforcement learning
 
 
-- ⚙️ **Autonomous Systems**
-  - Intelligent operating systems
-  - Human-AI interaction
-  - Reliable AI assistants
-  - Agent architectures
+### ⚙️ Autonomous Systems
 
+- Intelligent operating systems
+- Human-AI interaction
+- Reliable AI assistants
+- Agent architectures
 
 
 My long-term goal is to create AI systems that move beyond passive question answering and become **autonomous collaborators capable of understanding and acting in the real world**.
@@ -153,9 +146,7 @@ My long-term goal is to create AI systems that move beyond passive question answ
 
 <tr>
 
-
 <td align="center">
-
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
@@ -171,9 +162,7 @@ My long-term goal is to create AI systems that move beyond passive question answ
 </td>
 
 
-
 <td align="center">
-
 
 <img src="https://img.shields.io/badge/Reinforcement_Learning-00599C?style=flat-square"/>
 
@@ -187,9 +176,7 @@ My long-term goal is to create AI systems that move beyond passive question answ
 </td>
 
 
-
 <td align="center">
-
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
 
@@ -200,7 +187,6 @@ My long-term goal is to create AI systems that move beyond passive question answ
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-
 
 </td>
 
@@ -218,25 +204,20 @@ My long-term goal is to create AI systems that move beyond passive question answ
 
 ### Deep Learning & AI
 
-
 - Stanford CS229 — Machine Learning
 - Stanford CS230 — Deep Learning
 - Stanford CS336 — Language Modeling
 - Stanford CS224R — Deep Reinforcement Learning
 
 
-
 ### Computer Systems
-
 
 - Operating Systems
 - Computer Networks
 - Distributed Systems
 
 
-
 ### Research Topics
-
 
 - Large Language Model Agents
 - Reinforcement Learning
@@ -283,13 +264,13 @@ Language:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LouissMa&show_icons=true&hide_border=true&theme=transparent&title_color=8C1515&icon_color=8C1515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LouissMa&show_icons=true&theme=transparent&hide_border=true&title_color=8C1515&icon_color=8C1515"/>
 
 
 <br/><br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouissMa&layout=compact&hide_border=true&theme=transparent&title_color=8C1515"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouissMa&layout=compact&theme=transparent&hide_border=true&title_color=8C1515"/>
 
 
 <br/><br/>
@@ -299,6 +280,10 @@ Language:
 
 
 </div>
+
+
+
+---
 
 # 🌱 Beyond Code
 
@@ -310,7 +295,6 @@ I believe the next generation of intelligence will emerge from the combination o
 
 
 **Reasoning + Learning + Interaction + Embodiment**
-
 
 
 I am continuously exploring how to transform ideas from AI research into practical intelligent systems.
