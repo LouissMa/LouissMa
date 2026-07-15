@@ -283,26 +283,22 @@ Language:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LouissMa&show_icons=true&theme=transparent&hide_border=true&title_color=8C1515&icon_color=8C1515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LouissMa&show_icons=true&hide_border=true&theme=transparent&title_color=8C1515&icon_color=8C1515"/>
 
 
 <br/><br/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LouissMa&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouissMa&layout=compact&hide_border=true&theme=transparent&title_color=8C1515"/>
 
 
 <br/><br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouissMa&layout=compact&theme=transparent&hide_border=true&title_color=8C1515"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LouissMa&theme=github_dark"/>
 
 
 </div>
-
-
-
----
 
 # 🌱 Beyond Code
 
