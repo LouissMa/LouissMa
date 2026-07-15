@@ -66,7 +66,12 @@ Currently exploring the intersection of
 I am interested in developing **autonomous intelligent systems** by combining:
 
 
-AI Future = ∫(Now → Future) (LLM + Learning + Robotics) · dt
+$$
+\mathrm{AI}_{Future}
+=
+\int_{Now}^{Future}
+(LLM+Learning+Robotics)\,dt
+$$
 
 
 My research journey can be summarized as:
