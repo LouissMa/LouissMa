@@ -66,24 +66,17 @@ Currently exploring the intersection of
 I am interested in developing **autonomous intelligent systems** by combining:
 
 
-$$
-\mathrm{AI}_{Future}
-=
-\int_{Now}^{Future}
-(LLM+Learning+Robotics)\,dt
-$$
-
+Large Language Models
++
+Learning Algorithms
++
+Robotics
+↓
+Embodied Intelligence
 
 My research journey can be summarized as:
 
-
-$$
-AI_{Future}
-=
-\int_{Now}^{Future}
-(LLM+Learning+Robotics)\cdot dt
-$$
-
+$$\text{Interest} = \int_{\text{Now}}^{\text{Feture}} (\text{AI} + \text{Robotics}) \cdot dt$$
 
 My current exploration focuses on:
 
