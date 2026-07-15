@@ -263,23 +263,18 @@ Language:
 
 <div align="center">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=LouissMa&show_icons=true&theme=transparent&hide_border=true&title_color=8C1515&icon_color=8C1515"/>
-
-
-<br/><br/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouissMa&layout=compact&theme=transparent&hide_border=true&title_color=8C1515"/>
-
-
-<br/><br/>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LouissMa&theme=github_dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LouissMa&theme=github-dark&hide_border=true"/>
 
 </div>
+
+
+I continuously improve my skills through:
+
+
+- Algorithmic problem solving
+- AI system development
+- Open-source projects
+- Research exploration
 
 
 
