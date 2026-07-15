@@ -66,15 +66,7 @@ Currently exploring the intersection of
 I am interested in developing **autonomous intelligent systems** by combining:
 
 
-$$
-Large\ Language\ Models
-+
-Learning\ Algorithms
-+
-Robotics
-\rightarrow
-Embodied\ Intelligence
-$$
+$$\text{Interest} = \int_{\text{Now}}^{\text{Stanford}} (\text{AI} + \text{Robotics}) \cdot dt$$
 
 
 My research journey can be summarized as:
