@@ -48,7 +48,7 @@ Currently exploring the intersection of
 <a href="https://twitter.com/mabingnan_V">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-<a href="mailto:your_email@example.com">
+<a href="mailto:Bingnanma1208@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
